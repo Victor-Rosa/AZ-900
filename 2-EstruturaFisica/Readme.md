@@ -13,7 +13,7 @@ Cada região do Azure apresenta data centers implantados dentro de um perímetro
 
 ## Availability Zones
 
-Em sua grande maria, cada região tem mais de uma zona de disponibilidade, que servem como backup caso algum de problema de conexão, energia, ou qualquer outro detalhe. Basicamente o Azure faz uma replica do seu serviço em outro local, e se uma das zonas "cairem" dentro da região, a outra assume e você nem percebe.
+Em sua grande maioria, cada região tem mais de uma zona de disponibilidade, que servem como backup caso algum de problema de conexão, energia, ou qualquer outro detalhe. Basicamente o Azure faz uma replica do seu serviço em outro local, e se uma das zonas "cairem" dentro da região, a outra assume e você nem percebe.
 Essas zonas são conectadas com links diretos de alta velocidade, com uma latência de ida e volta de menos de 2ms.
 
 ![-](https://docs.microsoft.com/pt-br/azure/availability-zones/media/availability-zones.png)

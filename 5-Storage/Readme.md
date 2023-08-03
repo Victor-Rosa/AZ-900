@@ -42,4 +42,4 @@ Trafega os dados entre os sistemas operacionais usando o protocolo SMB
 
 ## Archive Storage
 
-Se voc~e precisa manter os arquivos de sua empresa armazenado por um grande tempo, de forma segura e muito barato você pode usar a solução do Archive Storage. É super parato armazenar esses dados, eles ficam armazenados de forma cripptografada e uma séria de outras feature. Só não é indicado se você usa muito esses arquivos(grande quantidade de leitura). Ele é basicamente um blob storage, então todas as ferramentas usadas lá também funcionarão aqui.
+Se você precisa manter os arquivos de sua empresa armazenado por um grande tempo, de forma segura e muito barato você pode usar a solução do Archive Storage. É super barato armazenar esses dados, eles ficam armazenados de forma criptografada e uma série de outras feature. Só não é indicado se você usa muito esses arquivos(grande quantidade de leitura). Ele é basicamente um blob storage, então todas as ferramentas usadas lá também funcionarão aqui.
